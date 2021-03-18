@@ -1,4 +1,4 @@
-alert("okat");
+alert("okaeft");
 function throttle(callback, limit) {
   var waiting = false;
   return function () {
